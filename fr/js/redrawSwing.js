@@ -331,7 +331,7 @@ function redrawSwing(numSwings) {
 			.attr("x", function(d) { return Math.cos(AoAScale(subset[index].AttackAngle) * Math.PI/180) * lineLength + 10; })
 			.attr("y", function(d) { return Math.sin(AoAScale(subset[index].AttackAngle) * Math.PI/180) * lineLength; })
 			.style("fill", "#292929")
-			.text("Angle of Attack: " + Math.round(subset[index].AttackAngle*100)/100 + "°")
+			.text("Angle d'attaque: " + Math.round(subset[index].AttackAngle*100)/100 + "°")
 			.transition().duration(1000).delay(AoADelay+AoADuration+1000)
 			.style("opacity", 1);
 	
@@ -341,7 +341,7 @@ function redrawSwing(numSwings) {
 	
 	d3.select(".stepThreeTitle").transition().duration(500).delay(12000)
 			.style("opacity", 0)
-			.each("end", function(d) { d3.select(".stepThreeTitle").text("Ready for Swing " + (numSwings+1)) })
+			.each("end", function(d) { d3.select(".stepThreeTitle").text("Prêt pour le Swing " + (numSwings+1)) })
 			.transition().duration(500)
 			.style("opacity", 1);
 }//redrawSwing
