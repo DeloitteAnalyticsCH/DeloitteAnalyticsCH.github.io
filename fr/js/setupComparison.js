@@ -19,7 +19,7 @@ function moveThreeToFour() {
 		.transition().duration(750)
 		.style("opacity", 0);
 		
-	d3.select(".titleScore").text("Your average score from " + numSwings + " Swings");
+	d3.select(".titleScore").text("Votre résultat moyen de  " + numSwings + " Swings");
 	
 	//Adjust the numbers on the screen
 	d3.select(".peerBallSpeed").text(Math.round(meanBallSpeed));
@@ -126,9 +126,9 @@ function setupComparison() {
 
 	//Adjust the texts to the most similar golfer	
 	d3.select(".namePro").text(welkeProBenJij);
-	d3.select(".radarChartTitle").text("Your swing compared to that of " + welkeProBenJij + "");
+	d3.select(".radarChartTitle").text("Votre Swing comparé à celui de " + welkeProBenJij + "");
 	d3.select(".proAge").text(proAge[minLocation]);
-	d3.select(".proGolfEvent").text("Number of times participated in " + proGolfEvents[minLocation]);
+	d3.select(".proGolfEvent").text("Nombre de participations au " + proGolfEvents[minLocation]);
 	d3.select(".proGolfEventNum").text(proGolfEventsNum[minLocation]);
 	
 	//Change the image of the Pro golfer
@@ -440,7 +440,7 @@ function setupComparison() {
 	  .style("fill", function(d){ return d;});
 	//Create text next to squares
 	legend.selectAll("text")
-	  .data(["You", welkeProBenJij, "Average of Peer Group"])
+	  .data(["Vous", welkeProBenJij, "Moyenne de votre Groupe"])
 	  .enter().append("text")
 	  .attr("x", 25)
 	  .attr("y", function(d, i){ return i * 25;})
@@ -482,11 +482,11 @@ function setupComparison() {
 				
 				var radarDataPro = [
 					[//Average
-						{axis:'Ball Speed', value: 0},
-						{axis:'Club Speed', value: 0},
+						{axis:'Vitesse de la balle', value: 0},
+						{axis:'Vitesse du club', value: 0},
 						{axis:'Carry', value: 0},
 						{axis:'Side', value: 0},
-						{axis:'Attack Angle', value: 0}
+						{axis:"Angle d'attaque", value: 0}
 					],
 					[//Pro
 						{axis:'Ball Speed', value: pro[i].values[1].zScore},
