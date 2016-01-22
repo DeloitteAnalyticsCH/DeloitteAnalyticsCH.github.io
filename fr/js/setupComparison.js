@@ -87,12 +87,12 @@ function setupComparison() {
 	//Find out which of the 6 stats are above and below average and append them to the right string
 	var strongPointsString = "",
 		weakPointsString = ""
-	if (golferZscore[0] >= 0) strongPointsString = strongPointsString.concat("Club Speed, ");
-	else weakPointsString = weakPointsString.concat("Club Speed, ");
-	if (golferZscore[1] >= 0) strongPointsString = strongPointsString.concat("Ball Speed, ");
-	else weakPointsString = weakPointsString.concat("Ball Speed, ");
-	if (golferZscore[2] >= 0) strongPointsString = strongPointsString.concat("Angle of Attack, ");
-	else weakPointsString = weakPointsString.concat("Angle of Attack, ");
+	if (golferZscore[0] >= 0) strongPointsString = strongPointsString.concat("Vitesse du club, ");
+	else weakPointsString = weakPointsString.concat("Vitesse du club, ");
+	if (golferZscore[1] >= 0) strongPointsString = strongPointsString.concat("Vitesse de la balle, ");
+	else weakPointsString = weakPointsString.concat("Vitesse de la balle, ");
+	if (golferZscore[2] >= 0) strongPointsString = strongPointsString.concat("Angle d'attaque, ");
+	else weakPointsString = weakPointsString.concat("Angle d'attaque, ");
 	if (golferZscore[3] >= 0) strongPointsString = strongPointsString.concat("Carry, ");
 	else weakPointsString = weakPointsString.concat("Carry, ");
 	if (golferZscore[4] < 0) strongPointsString = strongPointsString.concat("Side, ");
