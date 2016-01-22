@@ -109,7 +109,7 @@ function setupVisuals() {
 		
 		d3.select(".stepThreeTitle").transition().duration(500)
 			.style("opacity", 0)
-			.each("end", function(d) { d3.select(".stepThreeTitle").text("Processing Swing " + numSwings) })
+			.each("end", function(d) { d3.select(".stepThreeTitle").text("Traitement du Swing " + numSwings) })
 			.transition().duration(500)
 			.style("opacity", 1);
 			
@@ -543,7 +543,7 @@ function setupVisuals() {
 			.style("font-weight", 400)
 			.attr("dy", "0.35em")
 			.style("pointer-events", "none")
-			.text("finished")
+			.text("Fini")
 			.style("opacity", 0)
 			.transition().duration(1000)
 			.style("opacity", 1);
@@ -579,7 +579,7 @@ function setupVisuals() {
 		.attr("y", -rectWidth/2)
 		.attr("dy", "1em")
 		.style("font-size", "12px")
-		.text("The Average of your Peer Group");
+		.text("La moyenne de votre Groupe");
 		
 		
 }//setupVisuals
