@@ -1,60 +1,60 @@
 var pro = [
 {
-    "Name": "Andrew Ace",
+    "Name": "Tiger Woods",
     "Gender": "Man",
     "Measure": "ClubSpeed",
     "zScore": 0.5
 },
 {
-    "Name": "Andrew Ace",
+    "Name": "Tiger Woods",
     "Gender": "Man",
     "Measure": "BallSpeed",
     "zScore": 0.5
 },
 {
-    "Name": "Andrew Ace",
+    "Name": "Tiger Woods",
     "Gender": "Man",
     "Measure": "AttackAngle",
     "zScore": 0.4
 },
 {
-    "Name": "Andrew Ace",
+    "Name": "Tiger Woods",
     "Gender": "Man",
     "Measure": "Carry",
     "zScore": -0.1
 },
 {
-    "Name": "Andrew Ace",
+    "Name": "Tiger Woods",
     "Gender": "Man",
     "Measure": "Side",
     "zScore": -0.3
 },
 {
-    "Name": "Brian Bogey",
+    "Name": "Rory McIlroy",
     "Gender": "Man",
     "Measure": "ClubSpeed",
     "zScore": -0.3
 },
 {
-    "Name": "Brian Bogey",
+    "Name": "Rory McIlroy",
     "Gender": "Man",
     "Measure": "BallSpeed",
     "zScore": -0.3
 },
 {
-    "Name": "Brian Bogey",
+    "Name":"Rory McIlroy",
     "Gender": "Man",
     "Measure": "AttackAngle",
     "zScore": 0.55
 },
 {
-    "Name": "Brian Bogey",
+    "Name": "Rory McIlroy",
     "Gender": "Man",
     "Measure": "Carry",
     "zScore": 0.1
 },
 {
-    "Name": "Brian Bogey",
+    "Name": "Rory McIlroy",
     "Gender": "Man",
     "Measure": "Side",
     "zScore": 0.4
