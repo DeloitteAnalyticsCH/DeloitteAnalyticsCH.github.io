@@ -1,180 +1,180 @@
 var pro = [
 {
-    "Name": "Andrew Ace",
+    "Name": "Tiger Woods",
     "Gender": "Man",
     "Measure": "ClubSpeed",
     "zScore": 0.5
 },
 {
-    "Name": "Andrew Ace",
+    "Name": "Tiger Woods",
     "Gender": "Man",
     "Measure": "BallSpeed",
     "zScore": 0.5
 },
 {
-    "Name": "Andrew Ace",
+    "Name": "Tiger Woods",
     "Gender": "Man",
     "Measure": "AttackAngle",
     "zScore": 0.4
 },
 {
-    "Name": "Andrew Ace",
+    "Name": "Tiger Woods",
     "Gender": "Man",
     "Measure": "Carry",
     "zScore": -0.1
 },
 {
-    "Name": "Andrew Ace",
+    "Name": "Tiger Woods",
     "Gender": "Man",
     "Measure": "Side",
     "zScore": -0.3
 },
 {
-    "Name": "Brian Bogey",
+    "Name": "Rory McIlroy",
     "Gender": "Man",
     "Measure": "ClubSpeed",
     "zScore": -0.3
 },
 {
-    "Name": "Brian Bogey",
+    "Name": "Rory McIlroy",
     "Gender": "Man",
     "Measure": "BallSpeed",
     "zScore": -0.3
 },
 {
-    "Name": "Brian Bogey",
+    "Name":"Rory McIlroy",
     "Gender": "Man",
     "Measure": "AttackAngle",
     "zScore": 0.55
 },
 {
-    "Name": "Brian Bogey",
+    "Name": "Rory McIlroy",
     "Gender": "Man",
     "Measure": "Carry",
     "zScore": 0.1
 },
 {
-    "Name": "Brian Bogey",
+    "Name": "Rory McIlroy",
     "Gender": "Man",
     "Measure": "Side",
     "zScore": 0.4
 },
 {
-    "Name": "Charles Course",
+    "Name": "Jordan Spieth",
     "Gender": "Man",
     "Measure": "ClubSpeed",
     "zScore": 0.3
 },
 {
-    "Name": "Charles Course",
+    "Name": "Jordan Spieth",
     "Gender": "Man",
     "Measure": "BallSpeed",
     "zScore": 0.4
 },
 {
-    "Name": "Charles Course",
+    "Name": "Jordan Spieth",
     "Gender": "Man",
     "Measure": "AttackAngle",
     "zScore": -0.3
 },
 {
-    "Name": "Charles Course",
+    "Name": "Jordan Spieth",
     "Gender": "Man",
     "Measure": "Carry",
     "zScore": 0.3
 },
 {
-    "Name": "Charles Course",
+    "Name": "Jordan Spieth",
     "Gender": "Man",
     "Measure": "Side",
     "zScore": 0.3
 },
 {
-    "Name": "Deborah Drive",
+    "Name": "Cheyenne Woods",
     "Gender": "Vrouw",
     "Measure": "ClubSpeed",
     "zScore": 0.2
 },
 {
-    "Name": "Deborah Drive",
+    "Name": "Cheyenne Woods",
     "Gender": "Vrouw",
     "Measure": "BallSpeed",
     "zScore": 0.4
 },
 {
-    "Name": "Deborah Drive",
+    "Name": "Cheyenne Woods",
     "Gender": "Vrouw",
     "Measure": "AttackAngle",
     "zScore": -0.5
 },
 {
-    "Name": "Deborah Drive",
+    "Name": "Cheyenne Woods",
     "Gender": "Vrouw",
     "Measure": "Carry",
     "zScore": 0.5
 },
 {
-    "Name": "Deborah Drive",
+    "Name": "Cheyenne Woods",
     "Gender": "Vrouw",
     "Measure": "Side",
     "zScore": -0.5
 },
 {
-    "Name": "Emma Eagle",
+    "Name": "Sharmila Nicollet",
     "Gender": "Vrouw",
     "Measure": "ClubSpeed",
     "zScore": -0.5
 },
 {
-    "Name": "Emma Eagle",
+    "Name": "Sharmila Nicollet",
     "Gender": "Vrouw",
     "Measure": "BallSpeed",
     "zScore": -0.3
 },
 {
-    "Name": "Emma Eagle",
+    "Name": "Sharmila Nicollet",
     "Gender": "Vrouw",
     "Measure": "AttackAngle",
     "zScore": 0.7
 },
 {
-    "Name": "Emma Eagle",
+    "Name": "Sharmila Nicollet",
     "Gender": "Vrouw",
     "Measure": "Carry",
     "zScore": 0.2
 },
 {
-    "Name": "Emma Eagle",
+    "Name": "Sharmila Nicollet",
     "Gender": "Vrouw",
     "Measure": "Side",
     "zScore": 0.4
 },
 {
-    "Name": "Florence Fore",
+    "Name": "Michelle Wie",
     "Gender": "Vrouw",
     "Measure": "ClubSpeed",
     "zScore": 0.3
 },
 {
-    "Name": "Florence Fore",
+    "Name": "Michelle Wie",
     "Gender": "Vrouw",
     "Measure": "BallSpeed",
     "zScore": 0.55
 },
 {
-    "Name": "Florence Fore",
+    "Name": "Michelle Wie",
     "Gender": "Vrouw",
     "Measure": "AttackAngle",
     "zScore": 0.2
 },
 {
-    "Name": "Florence Fore",
+    "Name": "Michelle Wie",
     "Gender": "Vrouw",
     "Measure": "Carry",
     "zScore": -0.4
 },
 {
-    "Name": "Florence Fore",
+    "Name": "Michelle Wie",
     "Gender": "Vrouw",
     "Measure": "Side",
     "zScore": 0.3

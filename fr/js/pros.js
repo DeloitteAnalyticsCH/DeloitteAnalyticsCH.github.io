@@ -90,91 +90,91 @@ var pro = [
     "zScore": 0.3
 },
 {
-    "Name": "Deborah Drive",
+    "Name": "Cheyenne Woods",
     "Gender": "Vrouw",
     "Measure": "ClubSpeed",
     "zScore": 0.2
 },
 {
-    "Name": "Deborah Drive",
+    "Name": "Cheyenne Woods",
     "Gender": "Vrouw",
     "Measure": "BallSpeed",
     "zScore": 0.4
 },
 {
-    "Name": "Deborah Drive",
+    "Name": "Cheyenne Woods",
     "Gender": "Vrouw",
     "Measure": "AttackAngle",
     "zScore": -0.5
 },
 {
-    "Name": "Deborah Drive",
+    "Name": "Cheyenne Woods",
     "Gender": "Vrouw",
     "Measure": "Carry",
     "zScore": 0.5
 },
 {
-    "Name": "Deborah Drive",
+    "Name": "Cheyenne Woods",
     "Gender": "Vrouw",
     "Measure": "Side",
     "zScore": -0.5
 },
 {
-    "Name": "Emma Eagle",
+    "Name": "Sharmila Nicollet",
     "Gender": "Vrouw",
     "Measure": "ClubSpeed",
     "zScore": -0.5
 },
 {
-    "Name": "Emma Eagle",
+    "Name": "Sharmila Nicollet",
     "Gender": "Vrouw",
     "Measure": "BallSpeed",
     "zScore": -0.3
 },
 {
-    "Name": "Emma Eagle",
+    "Name": "Sharmila Nicollet",
     "Gender": "Vrouw",
     "Measure": "AttackAngle",
     "zScore": 0.7
 },
 {
-    "Name": "Emma Eagle",
+    "Name": "Sharmila Nicollet",
     "Gender": "Vrouw",
     "Measure": "Carry",
     "zScore": 0.2
 },
 {
-    "Name": "Emma Eagle",
+    "Name": "Sharmila Nicollet",
     "Gender": "Vrouw",
     "Measure": "Side",
     "zScore": 0.4
 },
 {
-    "Name": "Florence Fore",
+    "Name": "Michelle Wie",
     "Gender": "Vrouw",
     "Measure": "ClubSpeed",
     "zScore": 0.3
 },
 {
-    "Name": "Florence Fore",
+    "Name": "Michelle Wie",
     "Gender": "Vrouw",
     "Measure": "BallSpeed",
     "zScore": 0.55
 },
 {
-    "Name": "Florence Fore",
+    "Name": "Michelle Wie",
     "Gender": "Vrouw",
     "Measure": "AttackAngle",
     "zScore": 0.2
 },
 {
-    "Name": "Florence Fore",
+    "Name": "Michelle Wie",
     "Gender": "Vrouw",
     "Measure": "Carry",
     "zScore": -0.4
 },
 {
-    "Name": "Florence Fore",
+    "Name": "Michelle Wie",
     "Gender": "Vrouw",
     "Measure": "Side",
     "zScore": 0.3
