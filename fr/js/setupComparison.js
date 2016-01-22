@@ -146,25 +146,25 @@ function setupComparison() {
 	
 	radarData = [
 		[//Average
-			{axis:'Ball Speed', value: 0},
-			{axis:'Club Speed', value: 0},
+			{axis:'Vitessse de la balle', value: 0},
+			{axis:'Vitesse du club', value: 0},
 			{axis:'Carry', value: 0},
 			{axis:'Side', value: 0},
-			{axis:'Attack Angle', value: 0}
+			{axis:'Angle d attaque', value: 0}
 		],
 		[//Pro
-			{axis:'Ball Speed', value: proValues[1].zScore},
-			{axis:'Club Speed', value: proValues[0].zScore},
+			{axis:'Vitessse de la balle', value: proValues[1].zScore},
+			{axis:'Vitesse du club', value: proValues[0].zScore},
 			{axis:'Carry', value: proValues[3].zScore},
 			{axis:'Side', value: -1*proValues[4].zScore}, //Smaller side is better
-			{axis:'Attack Angle', value: proValues[2].zScore}
+			{axis:'Angle d attaque', value: proValues[2].zScore}
 		],
 		[//Golfer
-			{axis:'Ball Speed', value: golferZscore[1]},
-			{axis:'Club Speed', value: golferZscore[0]},
+			{axis:'Vitessse de la balle', value: golferZscore[1]},
+			{axis:'Vitesse du club', value: golferZscore[0]},
 			{axis:'Carry', value: golferZscore[3]},
 			{axis:'Side', value: -1*golferZscore[4]},
-			{axis:'Attack Angle', value: golferZscore[2]}
+			{axis:'Angle d attaque', value: golferZscore[2]}
 		]	
 	];
 	

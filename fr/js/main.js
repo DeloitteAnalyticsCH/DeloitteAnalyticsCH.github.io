@@ -33,7 +33,7 @@ d3.select("#button_25_36").on("click", function(){ peerGroupHandicap = d3.select
 var pro = d3.nest().key(function(d) { return d.Name; }).entries(pro);
 
 var proAge = [29, 24, 23, 19, 27, 29];
-var proGolfEvents = ["KLM open","KLM open","KLM open","Deloitte Ladies open","Deloitte Ladies open","Deloitte Ladies open"];
+var proGolfEvents = ["Geneva open","Geneva open","Geneva open","Deloitte Ladies open","Deloitte Ladies open","Deloitte Ladies open"];
 var proGolfEventsNum = [10,4,5,2,10,4];
 ////////////////////////////////////////////////////////////// 
 ///////////////// Step 1 - Pulsating dot ///////////////////// 
