@@ -60,31 +60,31 @@ var pro = [
     "zScore": 0.4
 },
 {
-    "Name": "Charles Course",
+    "Name": "Jordan Spieth",
     "Gender": "Man",
     "Measure": "ClubSpeed",
     "zScore": 0.3
 },
 {
-    "Name": "Charles Course",
+    "Name": "Jordan Spieth",
     "Gender": "Man",
     "Measure": "BallSpeed",
     "zScore": 0.4
 },
 {
-    "Name": "Charles Course",
+    "Name": "Jordan Spieth",
     "Gender": "Man",
     "Measure": "AttackAngle",
     "zScore": -0.3
 },
 {
-    "Name": "Charles Course",
+    "Name": "Jordan Spieth",
     "Gender": "Man",
     "Measure": "Carry",
     "zScore": 0.3
 },
 {
-    "Name": "Charles Course",
+    "Name": "Jordan Spieth",
     "Gender": "Man",
     "Measure": "Side",
     "zScore": 0.3
