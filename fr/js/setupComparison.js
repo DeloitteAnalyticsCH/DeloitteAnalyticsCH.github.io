@@ -128,8 +128,8 @@ function setupComparison() {
 	d3.select(".namePro").text(welkeProBenJij);
 	d3.select(".radarChartTitle").text("Votre Swing comparé à celui de " + welkeProBenJij + "");
 	d3.select(".proAge").text(proAge[minLocation]);
-	d3.select(".proGolfEvent").text("Nombre de participations au " + proGolfEvents[minLocation]);
-	d3.select(".proGolfEventNum").text(proGolfEventsNum[minLocation]);
+	//d3.select(".proGolfEvent").text("Nombre de participations au " + proGolfEvents[minLocation]); // removed from display
+	//d3.select(".proGolfEventNum").text(proGolfEventsNum[minLocation]);
 	
 	//Change the image of the Pro golfer
 	d3.select(".ProImage").attr("src", "img/" + welkeProBenJij + ".png");
